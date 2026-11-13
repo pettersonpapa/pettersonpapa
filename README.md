@@ -17,7 +17,9 @@
 
 Sou **Assessor Especial na Secretaria Municipal de Tecnologia e Inovação (STI)** da Prefeitura de Guararema, onde atuo na interseção entre infraestrutura, sistemas e desenvolvimento de software para modernizar o serviço público.
 
-Também sou fundador da **[Nipeon](https://nipeon.com.br)**, agência de marketing e tecnologia em Guararema, e estudante de **Análise e Desenvolvimento de Sistemas**.
+Também sou fundador da **[Nipeon](https://nipeon.com.br)**, agência de marketing e tecnologia em Guararema.
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Ciência da Computação**.
 
 ## O que eu faço
 
