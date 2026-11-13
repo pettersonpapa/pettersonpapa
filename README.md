@@ -55,23 +55,6 @@ Também sou fundador da **[Nipeon](https://nipeon.com.br)**, agência de marketi
 ![MediaWiki](https://img.shields.io/badge/MediaWiki-000000?style=flat-square&logo=mediawiki&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**ParkingHub**](https://github.com/pettersonpapa/projeto-estacionamento-ubc) · [demo](https://pettersonpapa.github.io/projeto-estacionamento-ubc/) | Reserva de vagas de estacionamento com planta interativa, validação de conflitos de horário e pagamento simulado. Projeto acadêmico em equipe. | HTML · CSS · JavaScript |
-| [**Carteira de Investimentos em C**](https://github.com/paulo-henrique-alves-de-almeida/carteira_de_investimentos) | Sistema de carteira de investimentos desenvolvido em grupo no curso de ADS. | C |
-| [**Moldura**](https://github.com/pettersonpapa/Moldura) | Combina a foto do usuário com uma moldura e exporta a imagem de perfil em 1080×1080. | JavaScript · Canvas |
-| **Toqi** | Cartão de visita digital por aproximação (NFC) e QR Code, produto da Nipeon. | JavaScript |
-
-**No setor público** — Painel do Prefeito (dashboard de indicadores em React), sistema de fila de atendimento ao cidadão (documentado com C4, UML e especificação de requisitos), reestruturação do GLPI com integração ao Rocket.Chat e a série de instruções de trabalho ISO 9001 da STI.
-
-## Atualmente
-
-- 🔭 Modernizando os serviços digitais da Prefeitura de Guararema
-- 🌱 Aprofundando em arquitetura de software, segurança da informação e IA aplicada
-- 🤝 Aberto a parcerias em projetos de tecnologia para o setor público e pequenos negócios
-
 ---
 
 <p align="center"><i>“Tecnologia a serviço das pessoas.”</i></p>
